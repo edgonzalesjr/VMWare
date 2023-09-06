@@ -1,7 +1,7 @@
 <h1>VMware Workstation Player on Windows 10 host</h1>
 
 <h2>Description</h2>
-This tutorial is a walk through of VMware Workstation Player installation on Windows 10 Pro host. Visit https://www.vmware.com/products/workstation-player.html website to download the installer.
+This tutorial is a walk through of VMware Workstation Player installation on Windows 10 Pro host. Visit https://www.vmware.com/products/workstation-player.html website to download the latest installer.
 <br />
 
 <h2>Environment Used</h2>
